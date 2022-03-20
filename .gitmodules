@@ -4,4 +4,4 @@
 	url = https://github.com/WarutaShinken/profit-blockchain-gui/
 [submodule "mozilla-ca"]
 	path = mozilla-ca
-	url = https://github.com/WarutaShinken/profit-blockchain-mozilla-ca/
+	url = https://github.com/Chia-Network/mozilla-ca
