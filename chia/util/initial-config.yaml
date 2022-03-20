@@ -307,7 +307,7 @@ full_node:
       port: 48446
   introducer_peer:
       host: introducer.profitcrypto.net
-      port: 48445
+      port: 48444
   wallet_peer:
     host: *self_hostname
     port: 48449
@@ -394,7 +394,7 @@ wallet:
 
   introducer_peer:
     host: introducer.profitcrypto.net
-    port: 48445
+    port: 48444
 
   ssl:
     private_crt:  "config/ssl/wallet/private_wallet.crt"
