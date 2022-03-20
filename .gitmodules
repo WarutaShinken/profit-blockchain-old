@@ -1,0 +1,7 @@
+
+[submodule "mozilla-ca"]
+	path = mozilla-ca
+	url = https://github.com/WarutaShinken/profit-blockchain-mozilla-ca
+[submodule "chia-blockchain-gui"]
+	path = chia-blockchain-gui
+	url = https://github.com/WarutaShinken/profit-blockchain-gui
